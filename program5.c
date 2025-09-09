@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main() {
-    printf("John Doe\n");
-    printf("123, Main Street\n");
-    printf("Cityville\n");
-    printf("Countryland\n");
+    printf("Akshita Gupta\n");
+    printf("3B, Unnati Safire\n");
+    printf("Jaipur\n");
+    printf("Rajasthan\n");
     return 0;
 }
